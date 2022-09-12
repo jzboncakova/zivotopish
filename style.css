@@ -6,7 +6,6 @@ img {
     border: 8px solid #3F858D;
 }
 
-
 body {
     color: #234D54;
     background-color: #dae4e5;
@@ -41,13 +40,13 @@ a{
 
 section{
     padding:50px 15%;
-
 }
 
 footer{
     padding:20px;
     text-align: center;
     background-color: #10272b;
+    color: #6bafb6;
 }
 
 .secondtd{
